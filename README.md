@@ -1,1 +1,1 @@
-# Diabetes-Prediction---Case-Study-
+# ml-diabetes-risk-prediction
